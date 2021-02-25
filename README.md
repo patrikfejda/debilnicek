@@ -68,11 +68,17 @@ MAX/MIN =  -(b2 / 4a) + c
 
 ## VLASTNOSTI FUNKCII:
 Definičný obor D(f)
+
 Obor hodnôt  H(f)
+
 SPOJITOSŤ (spojitá / nespojitá)
+
 OHRANIČENOSŤ (ohraničená / zhora o. / zdola o.)
+
 MONOTÓNNOSŤ ((ne)rastúca / (ne)klesajúca / prostá / nerýdzo mon.)
+
 PERIODICKOSŤ (perodická)
+
 PÁRNOSŤ (párna - podla osi y / nepárna - podla [0;0])
 
 Prostá? ak áno tak INVERZNÁ
