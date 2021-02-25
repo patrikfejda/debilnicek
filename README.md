@@ -1,7 +1,7 @@
 # Debilníček
 
 ## ČÍSLA
-N - prirodzené (1,2,3) , N0 aj s 0
+N - prirodzené (1,2,3) , N<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> aj s 0 
 
 Z - celé (-3,0,+3)
 
@@ -18,7 +18,7 @@ A ⋂ B - A ZÁROVEŇ / PRIENIK
 
 A - B - ROZDIEL
 
-UA - DOPLNOK MNOŽINY A DO MNOŽINY B
+U<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> - DOPLNOK MNOŽINY A DO MNOŽINY B
 
 A ÷ B - SYMETRICKÝ ROZDIEL (VŠETKO OKREM A ⋂ B)
 
@@ -55,11 +55,12 @@ a3 + b3 = (a + b) (a2 - ab + b2)
 a3 - b3 = (a - b) (a2 + ab + b2) 
 
 ## KVADRA:
-ax2 + bx + c = a (x - x1) (x - x2) ; x1 & x2 - korene
+ax2 + bx + c = a (x - x1) (x - x2) ; x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> & x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> - korene
 
-x1 / 2 = -b ± b2- 4 a c2 a
 
-x2 + bx + c ; x1 + x2= - b & x1 . x2= c
+x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1 / 2</span> = -b ± b2- 4 a c2 a
+
+x2 + bx + c ; x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= - b & x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> . x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= c
 
 ## ÚPRAVA NA ŠTVOREC:
 x2 + bx + c = (x + b/2)2 - (b/2)2 + c 
@@ -77,25 +78,25 @@ PÁRNOSŤ (párna - podla osi y / nepárna - podla [0;0])
 Prostá? ak áno tak INVERZNÁ
 
 ## ARITMETICKÁ POSTUPNOSŤ
-an = a1 + (n - 1) . d ; d = diferencia
+a<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + (n - 1) . d ; d = diferencia
 
-sn = (n / 2) (a1 + an)
+s<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = (n / 2) (a<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + a<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span>)
 
-ar = as + (r - s) . d
+a<span style="vertical-align: baseline; position: relative;top: +0.5em;">r</span> = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">s</span> + (r - s) . d
 
 ## GEOMETRICKÁ POSTUPNOSŤ
-an = a1 . q n - 1
+a<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a1 . q n - 1
 
-sn = a1 . ( q n - 1 ) / (  q - 1 )
+s<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a1 . ( q n - 1 ) / (  q - 1 )
 
-ar = as + a r - s
+a<span style="vertical-align: baseline; position: relative;top: +0.5em;">r</span> = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">s</span>  + a r - s
 
 ## GEOMETRICKÝ RAD
-s = a1 / ( 1 - q )  
+s = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>  / ( 1 - q )  
 
 ## KOMBINATORIKA
 PERMUTÁCIE - záleží na poradí
-- S OPAKOVANÍM - P´(n) = n! / n1! . n2! . n3! . n4! ...   
+- S OPAKOVANÍM - P´(n) = n! / n<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>! . n<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>! . n<span style="vertical-align: baseline; position: relative;top: +0.5em;">3</span> ! . n<span style="vertical-align: baseline; position: relative;top: +0.5em;">4</span>! ...   
 - BEZ OPAKOVANIA - P(n) = n!
 
 VARIÁCIE - záleží na poradí
