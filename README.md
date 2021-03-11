@@ -204,9 +204,9 @@ cos α = ( a⇾ . b⇾ ) / ( |a⇾| . |b⇾| )
 
 > a⇾ . b⇾ = 0 => KOLMÉ
 
-### Priamka
+## Priamka
 
-1. Parametrické vyjadrenie priamky
+### 1. Parametrické vyjadrenie priamky
 
 X = A + t * u⇾
 
