@@ -25,17 +25,17 @@ U<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span
 A ÷ B - SYMETRICKÝ ROZDIEL (VŠETKO OKREM A ⋂ B)
 
 ## LOGIKA
-( A ⋃ B ) ´ = A ´ ⋂ B ´
+( A ⋃ B ) ´  = A ´  ⋂ B ´
 
-( A ⋂ B ) ´ = A ´ ⋃ B ´
+( A ⋂ B ) ´  = A ´  ⋃ B ´
 
-( A ⇾ B ) ´ = A ⋂ B ´
+( A ⇾ B ) ´  = A ⋂ B ´
 
-( A ↔️ B ) ´ = ( A ⋂ B ´ ) ⋃ ( A ´ ⋂ B )
+( A ↔️ B ) ´  = ( A ⋂ B ´  ) ⋃ ( A ´  ⋂ B )
 
 OBRÁTENÁ IMPLIKÁCIA: A ⇾ B , B ⇾ A
 
-OBMENENÁ IMPLIKÁCIA: A ⇾ B , B ´ ⇾ A ´
+OBMENENÁ IMPLIKÁCIA: A ⇾ B , B ´  ⇾ A ´
 
 TAUTOLÓGIA -  VŽDY TRUE
 
