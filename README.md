@@ -193,3 +193,27 @@ k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position
 4. Jeden zlomok
 5. Rozložiť na súčin činiteľov
 6. Grafická metóda
+
+## Analytická geometria
+
+### Uhol 2 vektorov
+
+> cos α = skal. súčin / súčin dĺžok
+
+cos α = ( a⇾ . b⇾ ) / ( |a⇾| . |b⇾| )
+
+> a⇾ . b⇾ = 0 => KOLMÉ
+
+### Priamka
+
+1. Parametrické vyjadrenie priamky
+
+X = A + t * u⇾
+
+1 bod A  = [x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>, y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>]
+
+1 smerový vektor s⇾ = (s<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>, s<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>)
+
+x = x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>
+
+y = y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>
