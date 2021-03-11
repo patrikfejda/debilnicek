@@ -256,6 +256,35 @@ A = [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A
 \|p, q\| sa počíta ako \|A, q\| ; A ⊃ p 
 
 
+## KRUŽNICA
+
+Stred S  = [x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>, y<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>]
+
+( x - x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> )<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + ( y - y<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> )<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> = r<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span>
+
+Kružnica: 
+( x - x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> )<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + ( y - y<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> )<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> ≤ r<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span>
+
+
+## DOTYČNICA KU KRUŽNICI 
+
+dotyčnica ku k: S [ m , n ] , r
+
+v bode X [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> ]
+
+( x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - m ) . ( x - m ) + ( y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - n ) . ( y - n ) = r <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>
+
+## ELIPSA
+
+>a \| \| os x
+>
+>b \| \| os y
+>
+>S [ m , n ]
+
+
+( x - m ) <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / a <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + ( y - n ) <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / b <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> = 1
+
 
 
 
