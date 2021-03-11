@@ -247,9 +247,9 @@ x / p + y / q = 1
 
 p = ax + by + c = 0
 
-A = [x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>, y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>]
+A = [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> ]
 
-| A, p | = |a x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + b y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + c |  /  sqrt( a<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> )
+| A, p | = | a * x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + b * y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + c |  /  sqrt( a<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> )
 
 
 
