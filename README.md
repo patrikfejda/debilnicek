@@ -129,7 +129,7 @@ KOMBINÁCIE - nezáleží na poradí
 
 a⇾ . b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
 
-a⇾ . b⇾ = |a⇾| . |b⇾| . cos φ
+a⇾ . b⇾ = \|a⇾| . \|b⇾| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ 
 
@@ -141,7 +141,7 @@ pravotoč. sústava: P ruka (palec - c⇾, ukaz - a⇾, prostred - b⇾)
 
 a⇾ x b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
 
-a⇾ x b⇾ = |a⇾| . |b⇾| . cos φ
+a⇾ x b⇾ = \|a⇾\| . \|b⇾\| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ CEZ MATICU
 > a1 a2 a3 a1 a2
@@ -200,7 +200,7 @@ k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position
 
 > cos α = skal. súčin / súčin dĺžok
 
-cos α = ( a⇾ . b⇾ ) / ( |a⇾| . |b⇾| )
+cos α = ( a⇾ . b⇾ ) / ( \|a⇾\| . \|b⇾\| )
 
 > a⇾ . b⇾ = 0 => KOLMÉ
 
@@ -249,11 +249,11 @@ p = ax + by + c = 0
 
 A = [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> ]
 
-|A, p| = |a * x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + b * y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + c|  /  sqrt( a<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> )
+\|A, p\| = \|a * x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + b * y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + c\|  /  sqrt( a<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> )
 
 ## Vzdialenosť 2 priamok
 
-|p, q| sa počíta ako |A, q| ; A ⊃ p 
+\|p, q\| sa počíta ako \|A, q\| ; A ⊃ p 
 
 
 
