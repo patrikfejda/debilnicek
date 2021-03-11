@@ -42,31 +42,39 @@ TAUTOLÓGIA -  VŽDY TRUE
 KONTRADIKCIA -  VŽDY FALSE
 
 ## POLYNÓMY:
-(a + b)2 = a2 + 2ab + b2
+(a + b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + 2ab + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>
 
-(a - b)2 = a2 - 2ab + b2
+(a - b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - 2ab + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>
 
-a2 - b2  = (a + b) (a - b)
+a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>  = (a + b) (a - b)
 
-(a + b)3 = a3 + 3a2b + 3ab2 + b3
+(a + b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> + 3a2b + 3ab2 + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span>
 
-(a - b)3 = a3 - 3a2b + 3ab2 - b3
+(a - b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> - 3a2b + 3ab2 - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span>
 
-a3 + b3 = (a + b) (a2 - ab + b2) 
+a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = (a + b) (a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - ab + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>) 
 
-a3 - b3 = (a - b) (a2 + ab + b2) 
+a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = (a - b) (a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + ab + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>) 
 
 ## KVADRA:
-ax2 + bx + c = a (x - x1) (x - x2) ; x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> & x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> - korene
+ax<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + bx + c = a (x - x1) (x - x2) ; x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> & x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> - korene
 
+D = b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - 4 * a * c
 
-x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1 / 2</span> = -b ± b2- 4 a c2 a
+> D < 0 => 0 koreňov
+> 
+> D == 0 => 1 koreň
+> 
+> D > 0 => 2 korene
 
-x2 + bx + c ; x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= - b & x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> . x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= c
+x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1 / 2</span> = -b ± sqrt(D) / (2*a)
+
+> x<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + bx + c  ;  x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= - b  &&  x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> . x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= c
 
 ## ÚPRAVA NA ŠTVOREC:
-x2 + bx + c = (x + b/2)2 - (b/2)2 + c 
-MAX/MIN =  -(b2 / 4a) + c
+x<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + bx + c = (x + b/2)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - (b/2)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + c 
+
+> MAX/MIN =  -(b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / 4a) + c
 
 ## VLASTNOSTI FUNKCII:
 Definičný obor D(f)
@@ -93,11 +101,11 @@ s<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span
 a<span style="vertical-align: baseline; position: relative;top: +0.5em;">r</span> = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">s</span> + (r - s) . d
 
 ## GEOMETRICKÁ POSTUPNOSŤ
-a<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a1 . q n - 1
+a<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a1 . q <span style="vertical-align: baseline; position: relative;top: -0.5em;">n - 1</span>
 
-s<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a1 . ( q n - 1 ) / (  q - 1 )
+s<span style="vertical-align: baseline; position: relative;top: +0.5em;">n</span> = a1 . ( q <span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span> - 1 ) / ( q - 1 )
 
-a<span style="vertical-align: baseline; position: relative;top: +0.5em;">r</span> = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">s</span>  + a r - s
+a<span style="vertical-align: baseline; position: relative;top: +0.5em;">r</span> = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">s</span>  + a <span style="vertical-align: baseline; position: relative;top: -0.5em;">r - s</span>
 
 ## GEOMETRICKÝ RAD
 s = a<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>  / ( 1 - q )  
@@ -108,7 +116,7 @@ PERMUTÁCIE - záleží na poradí
 - BEZ OPAKOVANIA - P(n) = n!
 
 VARIÁCIE - záleží na poradí
-- S OPAKOVANÍM - V ´ (k, n) = nk
+- S OPAKOVANÍM - V ´ (k, n) = n<span style="vertical-align: baseline; position: relative;top: -0.5em;">k</span>
 - BEZ OPAKOVANIA - V(k, n) = n! / (n - k)!
 
 KOMBINÁCIE - nezáleží na poradí
@@ -117,31 +125,42 @@ KOMBINÁCIE - nezáleží na poradí
 
 ## VEKTORY
 ### SKALÁRNY SÚČIN VEKTOROV a⇾ . b⇾
-	výsledok je číslo, znak: .
+> výsledok je číslo, znak: .
+
 a⇾ . b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
+
 a⇾ . b⇾ = |a⇾ | . |b⇾| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ 
-výsledok je vektor, znak: x
-	c⇾ = a⇾ x b⇾ ; c⇾ ⊥ a⇾ ⋂ c⇾ ⊥ b⇾  
-	pravotoč. sústava: P ruka (palec - c⇾, ukaz - a⇾, prostred - b⇾)
-	a⇾ x b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
+
+> výsledok je vektor, znak: x
+
+c⇾ = a⇾ x b⇾ ; c⇾ ⊥ a⇾ ⋂ c⇾ ⊥ b⇾  
+
+pravotoč. sústava: P ruka (palec - c⇾, ukaz - a⇾, prostred - b⇾)
+
+a⇾ x b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
+
 a⇾ x b⇾ = |a⇾ | . |b⇾| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ CEZ MATICU
-a1 a2 a3 a1 a2
-b1 b2 b3 b1 b2
+> a1 a2 a3 a1 a2
+>
+> b1 b2 b3 b1 b2
 
 c1 = a2 . b3 - b2 . a3 
+
 c2 = a3 . b1 - b3 . a1 
+
 c3 = a1 . b2 - b1 . a2  
 
 ### FINTA PČ
-a⇾ ⊥ b⇾ ; a⇾ = ( a1 , a2 ) ; b⇾ = ( -a2 , a1 ) 
+a⇾ ⊥ b⇾ ; a⇾ = ( a<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> , a<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> ) ; b⇾ = ( -a<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> , a<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> ) 
 
 ### UHOL 2 VEKTOROV a⇾ & b⇾
 cos φ = a⇾ . b⇾ /  |a⇾| . |b⇾| 
 
 ## BINOMICKÁ VETA
-(a + b)n = (nC0) . an . b0 + (nC1) . an-1 . b1 + … + (nCn) . a0 . bn
-k-ty člen = (nC(k-1)) . an-k+1 . bk-1
+(a + b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span> = (nC0) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">0</span> + (nC1) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">n - 1</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">1</span> + … + (nCn) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">0</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span>
+
+k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">n-k+1</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">k-1</span>
