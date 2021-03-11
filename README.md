@@ -25,17 +25,17 @@ U<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span
 A ÷ B - SYMETRICKÝ ROZDIEL (VŠETKO OKREM A ⋂ B)
 
 ## LOGIKA
-( A ⋃ B )´ = A´ ⋂ B´
+( A ⋃ B ) ´ = A ´ ⋂ B ´
 
-( A ⋂ B )´ = A´ ⋃ B´
+( A ⋂ B ) ´ = A ´ ⋃ B ´
 
-( A ⇾ B )´ = A ⋂ B´
+( A ⇾ B ) ´ = A ⋂ B ´
 
-( A ↔️ B )´ = ( A ⋂ B´ ) ⋃ ( A´ ⋂ B )
+( A ↔️ B ) ´ = ( A ⋂ B ´ ) ⋃ ( A ´ ⋂ B )
 
 OBRÁTENÁ IMPLIKÁCIA: A ⇾ B , B ⇾ A
 
-OBMENENÁ IMPLIKÁCIA: A ⇾ B , B´ ⇾ A´
+OBMENENÁ IMPLIKÁCIA: A ⇾ B , B ´ ⇾ A ´
 
 TAUTOLÓGIA -  VŽDY TRUE
 
@@ -108,11 +108,11 @@ PERMUTÁCIE - záleží na poradí
 - BEZ OPAKOVANIA - P(n) = n!
 
 VARIÁCIE - záleží na poradí
-- S OPAKOVANÍM - V´(k, n) = nk
+- S OPAKOVANÍM - V ´ (k, n) = nk
 - BEZ OPAKOVANIA - V(k, n) = n! / (n - k)!
 
 KOMBINÁCIE - nezáleží na poradí
-- S OPAKOVANÍM - C´(k, n) = (n+k-1)C(k) = (n+k-1)! / (n-1)! . k!
+- S OPAKOVANÍM - C ´ (k, n) = (n+k-1)C(k) = (n+k-1)! / (n-1)! . k!
 - BEZ OPAKOVANIA - C(k, n) = n! / (n-k)! . k!
 
 ## VEKTORY
