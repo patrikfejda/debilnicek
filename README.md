@@ -177,7 +177,7 @@ k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position
 
 ## NEROVNICE
 
-### Nerovnice s neznámou v menovateli
+### NEROVNICE S NEZNÁMOU V MENOVATELI
 
 1. Podmienky
 2. Uprava - na jednej strane 0
@@ -185,7 +185,7 @@ k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position
 4. Rozložiť na súčin činiteľov
 5. Grafická metóda
 
-### Iracionálne nerovnice
+### IRACIONÁLNE NEROVNICE
 
 1. Podmienky
 2. Násobím odmocnicou (OK, lebo vždy >0)
@@ -194,9 +194,9 @@ k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position
 5. Rozložiť na súčin činiteľov
 6. Grafická metóda
 
-## Analytická geometria
+## ANALYTICKÁ GEOMETRIA
 
-### Uhol 2 vektorov
+### UHOL 2 VEKTOROV
 
 > cos α = skal. súčin / súčin dĺžok
 
@@ -204,9 +204,9 @@ cos α = ( a⇾ . b⇾ ) / ( \|a⇾\| . \|b⇾\| )
 
 > a⇾ . b⇾ = 0 => KOLMÉ
 
-## Priamka
+## PRIAMKA
 
-### 1. Parametrické vyjadrenie priamky
+### 1. PARAMETRICKÉ VYJADRENIE PRIAMKY
 
 X = A + t * u⇾
 
@@ -218,7 +218,7 @@ X = A + t * u⇾
 > 
 > y = y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>
 
-### 2. Všeobecná rovnica priamky
+### 2. VŠEOBECNÁ ROVNICA PRIAMKY
 
 ax + by + c = 0
 
@@ -229,12 +229,12 @@ ax + by + c = 0
 > n<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> x + n<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> y + c = 0
 
 
-### 3. Smerový tvar priamky
+### 3. SMEROVÝ TVAR PRIAMKY
 
 y = kx + q
 
 
-### 4. Úsekový tvar priamky
+### 4. ÚSEKOVÝ TVAR PRIAMKY
 
 P = [ p , 0 ]
 
@@ -243,7 +243,7 @@ Q = [ 0 , q ]
 x / p + y / q = 1
 
 
-## Vzdialenosť bodu od priamky
+## VZDIALENOSŤ BODU OD PRIAMKY
 
 p = ax + by + c = 0
 
@@ -251,7 +251,7 @@ A = [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A
 
 \|A, p\| = \|a * x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + b * y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + c\|  /  sqrt( a<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> )
 
-## Vzdialenosť 2 priamok
+## VZDIALENOSŤ OD PRIAMKY
 
 \|p, q\| sa počíta ako \|A, q\| ; A ⊃ p 
 
