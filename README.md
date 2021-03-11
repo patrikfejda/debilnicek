@@ -214,6 +214,47 @@ X = A + t * u⇾
 
 1 smerový vektor s⇾ = (s<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>, s<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>)
 
-x = x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>
+> x = x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>
+> 
+> y = y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>
 
-y = y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + t * s<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>
+### 2. Všeobecná rovnica priamky
+
+ax + by + c = 0
+
+1 bod A  = [x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>, y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>]
+
+1 normálový vektor n⇾ = (n<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span>, n<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>)
+
+> n<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> x + n<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span> y + c = 0
+
+
+### 3. Smerový tvar priamky
+
+y = kx + q
+
+
+### 4. Úsekový tvar priamky
+
+P = [ p , 0 ]
+
+Q = [ 0 , q ]
+
+x / p + y / q = 1
+
+
+## Vzdialenosť bodu od priamky
+
+p = ax + by + c = 0
+
+A = [x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>, y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span>]
+
+| A, p | = |a x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + b y<span style="vertical-align: baseline; position: relative;top: +0.5em;">A</span> + c |  /  sqrt( a<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> )
+
+
+
+
+
+
+
+
