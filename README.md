@@ -129,7 +129,7 @@ KOMBINÁCIE - nezáleží na poradí
 
 a⇾ . b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
 
-a⇾ . b⇾ = \|a⇾| . \|b⇾| . cos φ
+a⇾ . b⇾ = \|a⇾\| . \|b⇾\| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ 
 
