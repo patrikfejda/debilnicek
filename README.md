@@ -129,7 +129,7 @@ KOMBINÁCIE - nezáleží na poradí
 
 a⇾ . b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
 
-a⇾ . b⇾ = |a⇾ | . |b⇾| . cos φ
+a⇾ . b⇾ = |a⇾| . |b⇾| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ 
 
@@ -141,7 +141,7 @@ pravotoč. sústava: P ruka (palec - c⇾, ukaz - a⇾, prostred - b⇾)
 
 a⇾ x b⇾ = a1 . b1 + a2 . b2  (+ a3 . b3 )
 
-a⇾ x b⇾ = |a⇾ | . |b⇾| . cos φ
+a⇾ x b⇾ = |a⇾| . |b⇾| . cos φ
 
 ### VEKTOROVÝ SÚČIN VEKTOROV a⇾ . b⇾ CEZ MATICU
 > a1 a2 a3 a1 a2
@@ -164,3 +164,32 @@ cos φ = a⇾ . b⇾ /  |a⇾| . |b⇾|
 (a + b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span> = (nC0) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">0</span> + (nC1) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">n - 1</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">1</span> + … + (nCn) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">0</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">n</span>
 
 k-ty člen = ( nC ( k - 1 ) ) . a<span style="vertical-align: baseline; position: relative;top: -0.5em;">n-k+1</span> . b<span style="vertical-align: baseline; position: relative;top: -0.5em;">k-1</span>
+
+
+## ROVNICE
+
+### Iracionálne rovnice
+
+1. Podmienky
+2. Umocni (neekvivalentná úprava)
+3. Skúška správnosti
+
+
+## NEROVNICE
+
+### Nerovnice s neznámou v menovateli
+
+1. Podmienky
+2. Uprava - na jednej strane 0
+3. Jeden zlomok
+4. Rozložiť na súčin činiteľov
+5. Grafická metóda
+
+### Iracionálne nerovnice
+
+1. Podmienky
+2. Násobím odmocnicou (OK, lebo vždy >0)
+3. Uprava - na jednej strane 0
+4. Jeden zlomok
+5. Rozložiť na súčin činiteľov
+6. Grafická metóda
