@@ -48,9 +48,9 @@ KONTRADIKCIA -  VŽDY FALSE
 
 a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>  = (a + b) (a - b)
 
-(a + b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> + 3a2b + 3ab2 + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span>
+(a + b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> + 3a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>b + 3ab<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span>
 
-(a - b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> - 3a2b + 3ab2 - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span>
+(a - b)<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> - 3a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>b + 3ab<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span>
 
 a<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">3</span> = (a + b) (a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - ab + b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>) 
 
