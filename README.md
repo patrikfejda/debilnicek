@@ -1,6 +1,6 @@
 # Debilníček
 
-[Please follow contribution guidelines](CONTRIBUTING.md)
+[Našli ste chybu? Chcete niečo pridať?](https://github.com/patrikfejda/debilnicek/blob/main/CONTRIBUTING.md)
 
 ## ČÍSLA
 N - prirodzené (1,2,3) , N<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> aj s 0 
