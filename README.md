@@ -61,15 +61,19 @@ ax<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</spa
 
 D = b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - 4 * a * c
 
-> D < 0 => 0 koreňov
+> D < 0  >>>  0 koreňov
 > 
-> D == 0 => 1 koreň
+> D == 0  >>>  1 koreň
 > 
-> D > 0 => 2 korene
+> D > 0  >>>  2 korene
 
 x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1 / 2</span> = -b ± sqrt(D) / (2*a)
 
-> x<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + bx + c  ;  x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= - b  &&  x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> . x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= c
+>x<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + bx + c
+>
+>   x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> + x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= - b
+>
+>   x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> . x<span style="vertical-align: baseline; position: relative;top: +0.5em;">2</span>= c
 
 ## ÚPRAVA NA ŠTVOREC:
 x<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + bx + c = (x + b/2)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - (b/2)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + c 
