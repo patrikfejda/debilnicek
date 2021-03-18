@@ -261,6 +261,7 @@ A = [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">A
 
 \|p, q\| sa počíta ako \|A, q\| ; A ⊃ p 
 
+# KUŽELOSEČKY 
 
 ## KRUŽNICA
 
@@ -272,13 +273,31 @@ Kružnica:
 ( x - x<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> )<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> + ( y - y<span style="vertical-align: baseline; position: relative;top: +0.5em;">1</span> )<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span> ≤ r<span style="vertical-align: baseline; position: relative;top:-0.5em;">2</span>
 
 
-## DOTYČNICA KU KRUŽNICI 
+## DOTYČNICA KU KRUŽNICI - X leží na kružnici
 
 dotyčnica ku k: S [ m , n ] , r
 
 v bode X [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> ]
 
 ( x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - m ) . ( x - m ) + ( y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - n ) . ( y - n ) = r <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>
+
+## DOTYČNICA KU KRUŽNICI - X neleží na kružnici
+
+dotyčnica ku k: S [ m , n ] , r
+
+bod X [ x , y ] patrí priamkam
+
+prechodový bod T [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> ]
+
+POSTUP:
+
+1. do rovnice  ( x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - m ) . ( x - m ) + ( y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - n ) . ( y - n ) = r <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> doplním súradnice S [ m , n ]
+
+2. do rovnice kruhu doplním bod T: (x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - m)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + (y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - n)<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> = r<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>
+
+3. Bod X patrí dotyčnici takže ho dopním sem: (x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - m ) . ( x - m ) + ( y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> - n ) . ( y - n ) = r <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span>
+
+4. Z bodu 2 a 3 mám 2 rovnice o dvoch neznámych ( x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> )
 
 ## ELIPSA
 
