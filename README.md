@@ -301,14 +301,24 @@ POSTUP:
 
 ## ELIPSA
 
->a \| \| os x
+![elipsa](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Elipse.svg/987px-Elipse.svg.png)
+
+>hlavná poloos a \| \| os x
 >
->b \| \| os y
+>vedľajšia poloos b \| \| os y
 >
 >S [ m , n ]
+>
+>c = ohnisková vzdialenosť (vzdialenosť ohniska a stredu)
+> 
+>e = exentricita
 
 
 ( x - m ) <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / a <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> + ( y - n ) <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / b <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> = 1
+
+c = sqrt(a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> )
+
+e = c / a
 
 
 
