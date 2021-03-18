@@ -299,9 +299,9 @@ POSTUP:
 
 4. Z bodu 2 a 3 mám 2 rovnice o dvoch neznámych ( x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> )
 
-## ELIPSA
+## [ELIPSA](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Elipse.svg/987px-Elipse.svg.png)
 
-![elipsa](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Elipse.svg/987px-Elipse.svg.png)
+
 
 >hlavná poloos a \| \| os x
 >
@@ -318,7 +318,7 @@ POSTUP:
 
 c = sqrt(a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> )
 
-e = c / a
+e = c / a ; c = e * a
 
 
 
