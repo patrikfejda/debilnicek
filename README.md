@@ -302,7 +302,6 @@ POSTUP:
 ## [ELIPSA](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Elipse.svg/987px-Elipse.svg.png)
 
 
-
 >hlavná poloos a \| \| os x
 >
 >vedľajšia poloos b \| \| os y
@@ -320,6 +319,37 @@ c = sqrt(a<span style="vertical-align: baseline; position: relative;top: -0.5em;
 
 e = c / a ; c = e * a
 
+## HYPERBOLA
+
+
+>a = vzdialenosť vrcholu a Stredu 
+>
+>S [ m , n ]
+>
+>F1 / F2 - ohnisko
+>
+>c = ohnisková vzdialenosť (vzdialenosť F a S)
+> 
+>e = exentricita
+>
+>X - bod ležiaci na hyperbole
+
+
+( x - m ) <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / a <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - ( y - n ) <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> / b <span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> = 1
+
+c = sqrt(a<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> - b<span style="vertical-align: baseline; position: relative;top: -0.5em;">2</span> )
+
+e = c / a ; c = e * a
+
+\|F1 X\| - \|F2 X\| = 2a
+
+ASYMPTOTY:
+
+y - n = +- b/a * (x - m)
+
+UHOL MEDZI ASIMPTOTAMI:
+
+tg φ = \| (k1 - k2) / (1 + k1 * k2)  \|
 
 
 
