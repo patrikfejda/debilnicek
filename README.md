@@ -287,7 +287,7 @@ dotyčnica ku k: S [ m , n ] , r
 
 bod X [ x , y ] patrí priamkam
 
-prechodový bod T [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> ]
+dotykový bod T [ x<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> , y<span style="vertical-align: baseline; position: relative;top: +0.5em;">0</span> ]
 
 POSTUP:
 
